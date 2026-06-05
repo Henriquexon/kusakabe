@@ -13,7 +13,7 @@
     **Habilidade Inata:** - </br>
     **Classe:** Guerreiro </br>
     **Alinhamento:**  </br>
-    **Ryou:** 30 Ryou </br>
+    **Ryõ:** 30 Ryou </br>
     **Elemento:** - </br>
 
 * ## **Vida e Chakra**
@@ -53,8 +53,8 @@
 
   * #### **CHAKRA ELEVADO - (1/2 PC)**
 
-* ## **Itens (750 g/3,5 kg)**
-  * **Espada:**  </br>
+* ## **Itens (4,5 Kg/5 kg)**
+  * **Espada** Dano: 1d8; Corpo-a-Corpo; 250 Ryõ; 500g </br>
 
 * ## **Perícia**
   #### **Perícia no Uso de Armas (1x)** </br>
