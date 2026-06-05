@@ -13,7 +13,7 @@
     **Habilidade Inata:** - </br>
     **Classe:** Guerreiro </br>
     **Alinhamento:**  </br>
-    **Ryõ:** 30 Ryou </br>
+    **Ryõ:** 170 Ryou </br>
     **Elemento:** - </br>
 
 * ## **Vida e Chakra**
@@ -52,8 +52,10 @@
 
   * #### **CHAKRA ELEVADO - (1/2 PC)**
 
-* ## **Itens (4,5 Kg/5 kg)**
-  * **Espada:** 1d8; Corpo-a-Corpo; 250 Ryõ; 500g </br>
+* ## **Itens (0 Kg/5 Kg)**
+  * **2x Espada:** 1d8; Corpo-a-Corpo; 250 Ryõ; 500g </br>
+  * **8x Shuriken:** 1d4; Longo; 10 Ryõ; 250g </br>
+  * **2x Shuriken Gigante:** 2d6+2d4; Longo; 40 Ryõ; 1Kg </br>
 
 * ## **Perícia**
   #### **Perícia no Uso de Armas (1x)** </br>
@@ -86,15 +88,6 @@
    **Requerimentos:** - </br>
    **Aprendizado:** C </br>
    **Custo de Ações:** 2 PA para ativar </br>
-
-    ### **Kawarimi no Jutsu (Técnica de Substituição de Corpo)** </br>
-    **Custo:** 4 de Chakra </br>
-    **Rank:** D </br>
-    **Efeito:** *Defesa.* Substitui o corpo do ninja por um toco de madeira ou qualquer outro objeto do cenário. Reaparece numa distância de 1m do local onde estava. </br>
-    **Dano:** - </br>
-    **Requerimentos:** - </br>
-    **Range:** - </br>
-    **Custo de Ações:** Turno de Defesa </br>
 
     ### **Kinobiri** </br>
     **Custo:** - </br>
@@ -132,32 +125,12 @@
     **Range:** Corpo-a-Corpo </br>
     **Custo de Ações:** 2 PA </br>
 
-   ### **Oboro Bunshin no Jutsu (Técnica do Clone de Neblina)** </br>
-   **Custo:** 4 de Chakra </br>
-   **Rank:** D </br>
-   **Efeito:** Concentração. O ninja cria 2 clones ilusórios que não se desfazem ao serem atacados, porém são intangíveis. Não pode ser reutilizada enquanto tiverem clones remanescentes. </br>
-   **Dano:** - </br>
-   **Requerimentos:** - </br>
-   **Range:** Médio </br>
-   **Aprendizado:** C </br>
-   **Custo de Ações:** 2 PA </br>
-
     * ## **Kenjutsu**
    ### **Kage Shuriken no Jutsu (Técnica da Shuriken das Sombra)** </br>
    **Custo:** 3 de Chakra </br>
    **Rank:** D </br>
    **Efeito:** A técnica se baseia em esconder um arremessável na sombra de outro de mesma forma. Caso a rolagem de ataque desta arma seja superior à percepção passiva do alvo, ele receberá o ataque, caso contrário essa jogada será comparada com a DN do alvo como um ataque normal. Segue a regra de lançamento e não possui selos de mão. </br>
    **Dano:**  - </br>
-   **Requerimentos:** - </br>
-   **Range:** - </br>
-   **Aprendizado:** C </br>
-   **Custo de Ações:** - </br>
-
-   ### **Soushuriken no Jutsu (Técnica de Manipulação de Shuriken)** </br>
-   **Custo:** 5 de Chakra por arma manipulada </br>
-   **Rank:** D </br>
-   **Efeito:** O usuário manipula uma shuriken com um fio de aço, dando vantagem na sua rolagem de ataque. A metragem de fio de aço deve ser proporcional à distância que a shuriken percorre. O peso do fio de aço entrará na regra de lançamento. </br>
-   **Dano:** - </br>
    **Requerimentos:** - </br>
    **Range:** - </br>
    **Aprendizado:** C </br>
@@ -178,27 +151,6 @@
   **Rank:** C </br>
   **Efeito:** Com uma arma corpo-a-corpo o ninja avança e realiza um ataque rapidamente no seu adversário. </br>
   **Dano:** 1d8 + 2d6 </br>
-  **Requerimentos:** - </br>
-  **Range:** Médio </br>
-  **Aprendizado:** C </br>
-  **Custo de Ações:** 2 PA </br>
-
-   ### **Hijutsu Ishibari (Técnica Secreta Agulha de Pedra)** </br>
-  **Custo:** 8 de Chakra </br>
-  **Rank:** C </br>
-  **Efeito:** Arremessa duas Kunais ligadas a fios de aço no inimigo e então consegue transferir seu chakra através disso para atordoá-lo. Nessa técnica o arremesso seguirá a regra de lançamento porém as duas Kunais possuirão apenas uma rolagem para ambas. </br>
-  **Dano:** - </br>
-  **Requerimentos:** - </br>
-  **Range:** - </br>
-  **Custo de Aprendizado:** C </br>
-  **Custo de Ações:** - </br>
-
-    * ## **Taijutsu**
-  **Dainamikku Entori (Entrada Dinâmica)** </br>
-  **Custo:** 5 de Chakra </br>
-  **Rank:** D </br>
-  **Efeito:** O ninja dá um chute aéreo no adversário. </br> 
-  **Dano:** 1d4 </br>
   **Requerimentos:** - </br>
   **Range:** Médio </br>
   **Aprendizado:** C </br>
