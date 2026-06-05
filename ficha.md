@@ -36,10 +36,10 @@
     #### **Técnicas de DN's**
     **Ninjutsu:** - </br>
     **Taijutsu:** Desvio </br>
-    **Inteligência:** Genjutsu Kai (Dissipação de Genjutsu) </br>
-    **Constituição:** Absorver Dano </br>
-    **Destreza:** Arma Corpo-a-Corpo </br>
     **Genjutsu:** - </br>
+    **Inteligência:** Genjutsu Kai (Dissipação de Genjutsu) </br>
+    **Destreza:** Arma Corpo-a-Corpo </br>
+    **Constituição:** Absorver Dano </br>
     **Contra-ataque:** Atacar com arma corpo-a-corpo </br>
     **Ajuda:** Defender com arma corpo-a-corpo </br>
 
