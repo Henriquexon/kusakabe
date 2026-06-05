@@ -13,11 +13,11 @@
     **Habilidade Inata:** - </br>
     **Classe:** Guerreiro </br>
     **Alinhamento:**  </br>
-    **Ryou:** 0 Ryou </br>
+    **Ryou:** 30 Ryou </br>
     **Elemento:** - </br>
 
 * ## **Vida e Chakra**
-    | Kusakabe | HP ((8 + Cons/2 + 1) x level) | CP 5 + ((10 + 1) x level) |                        
+    | Kusakabe | HP ((8 + Cons/2 + 1) x level) | CP 5 + ((8 + 1) x level) |                        
     | :--: | :--:  | :--: |
     | **Atual**| 72 | 77 |
     |**Máximo**| 72  | 77 |
@@ -41,11 +41,12 @@
     **Constituição:** Absorver Dano </br>
     **Destreza:** Arma Corpo-a-Corpo </br>
     **Genjutsu:** - </br>
-    **Contra-ataque:**  </br>
-    **Ajuda:**  </br>
+    **Contra-ataque:** - </br>
+    **Ajuda:** - </br>
 
 * ## **Especializações (+1 de mod)**
-    #### 
+    #### Prestidigitação (Destreza): 3
+     Sempre que você tentar realizar um ato de prestidigitação ou de trapaça manual, como plantar alguma coisa em outra pessoa ou esconder um objeto em sua roupa, você deve fazer um teste de Prestidigitação. O Mestre também pode pedir um teste de Prestidigitação para determinar se você pode roubar uma bolsa de moedas ou pegar algo do bolso de outra pessoa.
 
 * ## **Talentos - (4 PC)**
   * #### **UM PASSO A FRENTE - (3 PC)**
@@ -62,7 +63,6 @@
 
 * ## **Talentos de Perícia**
 
-
 * ## **Upgrade de Clã**
    * **Rank C:** Dominio Simples
    * **Rank B:** -
@@ -70,8 +70,10 @@
    * **Rank S:** -
 
 * ## **Treinos**
-  ### **Treino de Level 6 (Treino Médio; 1 de Inteligência; Rank C) (67 Pontos)**
-  * 4º PA (30 PT)
+  ### **Treino de Level 6 (Treino Longo; 1 de Inteligência; Rank C) (86 Pontos)**
+  * 4º PA (60 PT)
+  * Aprender rank C (24 PT) ("Hijutsu Ishibari (Técnica Secreta Agulha de Pedra)")
+  * 2x Horas complementares (1 PT) (+15 Ryõ)
 
 * # **Jutsus**
     * ## **Ninjutsus**
@@ -181,6 +183,16 @@
   **Range:** Médio </br>
   **Aprendizado:** C </br>
   **Custo de Ações:** 2 PA </br>
+
+   ### **Hijutsu Ishibari (Técnica Secreta Agulha de Pedra)** </br>
+  **Custo:** 8 de Chakra </br>
+  **Rank:** C </br>
+  **Efeito:** Arremessa duas Kunais ligadas a fios de aço no inimigo e então consegue transferir seu chakra através disso para atordoá-lo. Nessa técnica o arremesso seguirá a regra de lançamento porém as duas Kunais possuirão apenas uma rolagem para ambas. </br>
+  **Dano:** - </br>
+  **Requerimentos:** - </br>
+  **Range:** - </br>
+  **Custo de Aprendizado:** C </br>
+  **Custo de Ações:** - </br>
 
     * ## **Taijutsu**
   **Dainamikku Entori (Entrada Dinâmica)** </br>
