@@ -54,7 +54,7 @@
   * #### **CHAKRA ELEVADO - (1/2 PC)**
 
 * ## **Itens (4,5 Kg/5 kg)**
-  * **Espada** Dano: 1d8; Corpo-a-Corpo; 250 Ryõ; 500g </br>
+  * **Espada:** 1d8; Corpo-a-Corpo; 250 Ryõ; 500g </br>
 
 * ## **Perícia**
   #### **Perícia no Uso de Armas (1x)** </br>
