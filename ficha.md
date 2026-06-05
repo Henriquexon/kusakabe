@@ -34,15 +34,14 @@
     | **Final**| - | 7 | - | 10 | 9 | 11 | 7 | 9 |
   
     #### **Técnicas de DN's**
-    **Ninjutsu¹:** - </br>
-    **Ninjutsu²:** - </br>
+    **Ninjutsu:** - </br>
     **Taijutsu:** Desvio </br>
     **Inteligência:** Genjutsu Kai (Dissipação de Genjutsu) </br>
     **Constituição:** Absorver Dano </br>
     **Destreza:** Arma Corpo-a-Corpo </br>
     **Genjutsu:** - </br>
-    **Contra-ataque:** - </br>
-    **Ajuda:** - </br>
+    **Contra-ataque:** Atacar com arma corpo-a-corpo </br>
+    **Ajuda:** Defender com arma corpo-a-corpo </br>
 
 * ## **Especializações (+1 de mod)**
     #### Prestidigitação (Destreza): +4
