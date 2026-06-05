@@ -25,7 +25,7 @@
 * ## **Atributos**
     | NIN | TAI | GEN | INT | DES | CON | CAR |
     | :--: | :--:  | :--:  | :--:  | :--: | :--:  | :--:  | 
-    | 0 | +1 | +0 | +1 | +3 | +1 | +3 |
+    | +0 | +1 | +0 | +1 | +3 | +1 | +3 |
 
 * ## **Defesas Ninja (DN)**
     | DN | Nin | Tai | Gen | Int | Des | Con | Contra-Ataque | Ajuda |  
@@ -45,7 +45,7 @@
     **Ajuda:** - </br>
 
 * ## **Especializações (+1 de mod)**
-    #### Prestidigitação (Destreza): 3
+    #### Prestidigitação (Destreza): +4
      Sempre que você tentar realizar um ato de prestidigitação ou de trapaça manual, como plantar alguma coisa em outra pessoa ou esconder um objeto em sua roupa, você deve fazer um teste de Prestidigitação. O Mestre também pode pedir um teste de Prestidigitação para determinar se você pode roubar uma bolsa de moedas ou pegar algo do bolso de outra pessoa.
 
 * ## **Talentos - (4 PC)**
