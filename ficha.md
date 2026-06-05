@@ -1,6 +1,6 @@
 # **Kusakabe**
 
-![Kusakabe]()
+![Kusakabe](kusakabe-iwin.jpeg)
 
 * ## **Registro Geral**
     **Carregamento de Chakra:** +5 de Chakra </br>
