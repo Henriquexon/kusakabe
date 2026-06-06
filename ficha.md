@@ -6,32 +6,32 @@
     **Carregamento de Chakra:** +5 de Chakra </br>
     **Deslocamento:** 8 Metros (5 + Destreza) </br>
     **Dano do Soco:** 1d4 (Nível 1) </br>
-    **PA's:** 4º </br>
+    **PA's:** 3º </br>
     **Idade:** 37 anos </br>
     **Nível:** 08 </br>
     **Clã:** Senju (16 Pontos) </br>
     **Habilidade Inata:** - </br>
     **Classe:** Guerreiro </br>
     **Alinhamento:**  </br>
-    **Ryõ:** 170 Ryou </br>
+    **Ryõ:** 140 Ryou </br>
     **Elemento:** - </br>
 
 * ## **Vida e Chakra**
     | Kusakabe | HP ((8 + Cons/2 + 1) x level) | CP 5 + ((8 + 1) x level) |                        
     | :--: | :--:  | :--: |
-    | **Atual**| 72 | 77 |
-    |**Máximo**| 72  | 77 |
+    | **Atual**| 72 | 72 |
+    |**Máximo**| 72  | 72 |
 
 * ## **Atributos**
     | NIN | TAI | GEN | INT | DES | CON | CAR |
     | :--: | :--:  | :--:  | :--:  | :--: | :--:  | :--:  | 
-    | +0 | +1 | +0 | +1 | +3 | +1 | +3 |
+    | +0 | +0 | +0 | +3 | +3 | +0 | +2 |
 
 * ## **Defesas Ninja (DN)**
     | DN | Nin | Tai | Gen | Int | Des | Con | Contra-Ataque | Ajuda |  
     | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |                  
     |**Inicial**| 8 | 6 | 8 | 9 | 6 | 10 | 4 | 6 |  
-    | **Final**| - | 7 | - | 10 | 9 | 11 | 7 | 9 |
+    | **Final**| - | 6 | - | 12 | 9 | 10 | 7 | 9 |
   
     #### **Técnicas de DN's**
     **Ninjutsu:** - </br>
@@ -48,9 +48,7 @@
      Sempre que você tentar realizar um ato de prestidigitação ou de trapaça manual, como plantar alguma coisa em outra pessoa ou esconder um objeto em sua roupa, você deve fazer um teste de Prestidigitação. O Mestre também pode pedir um teste de Prestidigitação para determinar se você pode roubar uma bolsa de moedas ou pegar algo do bolso de outra pessoa.
 
 * ## **Talentos - (4 PC)**
-  * #### **UM PASSO A FRENTE - (3 PC)**
-
-  * #### **CHAKRA ELEVADO - (1/2 PC)**
+  * #### **SANGUE NOS OLHOS - (4 PC)**
 
 * ## **Itens (0 Kg/5 Kg)**
   * **2x Espada:** 1d8; Corpo-a-Corpo; 250 Ryõ; 500g </br>
@@ -65,16 +63,18 @@
 * ## **Talentos de Perícia**
 
 * ## **Upgrade de Clã**
-   * **Rank C:** Dominio Simples
+   * **Rank C:** Dominio Simples: Contra-Ataque
    * **Rank B:** -
    * **Rank A:** -
    * **Rank S:** -
 
 * ## **Treinos**
-  ### **Treino de Level 6 (Treino Longo; 1 de Inteligência; Rank C) (86 Pontos)**
-  * 4º PA (60 PT)
-  * Aprender rank C (24 PT) ("Hijutsu Ishibari (Técnica Secreta Agulha de Pedra)")
-  * 2x Horas complementares (1 PT) (+15 Ryõ)
+  ### **Treino de Level 6 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
+  * 
+
+ 
+  ### **Treino de Level 7 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
+  * 
 
 * # **Jutsus**
     * ## **Ninjutsus**
@@ -135,6 +135,16 @@
    **Range:** - </br>
    **Aprendizado:** C </br>
    **Custo de Ações:** - </br>
+
+   ### **Dominio Simples: Contra-Ataque** </br>
+   **Custo:** 10 de Chakra </br>
+   **Rank:** C </br>
+   **Efeito:** O usuário se mantém em posição firme, concentrando chakra em todo o seu corpo aumentado seus sentimentos. A DN de contra-ataque do usuário se torna 8+Mod. </br>
+   **Dano:** - </br>
+   **Requerimentos:** - </br>
+   **Range:** Corpo-a-Corpo </br>
+   **Aprendizado:** T </br>
+   **Custo de Ações:** Turno Inteiro </br>
 
    ### **Shunsokuzan (Decapitação da Respiração Instantânea)** </br>
   **Custo:** 13 de Chakra </br>
