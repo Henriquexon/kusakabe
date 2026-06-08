@@ -139,7 +139,7 @@
    ### **Dominio Simples: Contra-Ataque** </br>
    **Custo:** 10 de Chakra </br>
    **Rank:** C </br>
-   **Efeito:** O usuário se mantém em posição firme, concentrando chakra em todo o seu corpo aumentado seus sentimentos. A DN de contra-ataque do usuário se torna 8+Mod. </br>
+   **Efeito:** O usuário se mantém em posição firme, concentrando chakra em todo o seu corpo aumentado seus sentidos e habilidades. O usuário prepara defesa e sua DN de contra-ataque se torna 8+Mod. </br>
    **Dano:** - </br>
    **Requerimentos:** - </br>
    **Range:** Corpo-a-Corpo </br>
