@@ -13,7 +13,7 @@
     **Habilidade Inata:** - </br>
     **Classe:** Guerreiro </br>
     **Alinhamento:**  </br>
-    **Ryõ:** 140 Ryou </br>
+    **Ryõ:** 800 Ryou </br>
     **Elemento:** - </br>
 
 * ## **Vida e Chakra**
@@ -50,10 +50,7 @@
 * ## **Talentos - (4 PC)**
   * #### **SANGUE NOS OLHOS - (4 PC)**
 
-* ## **Itens (0 Kg/5 Kg)**
-  * **2x Espada:** 1d8; Corpo-a-Corpo; 250 Ryõ; 500g </br>
-  * **8x Shuriken:** 1d4; Longo; 10 Ryõ; 250g </br>
-  * **2x Shuriken Gigante:** 2d6+2d4; Longo; 40 Ryõ; 1Kg </br>
+* ## **Itens (3 Kg/3 Kg)**
 
 * ## **Perícia**
   #### **Perícia no Uso de Armas (1x)** </br>
@@ -64,7 +61,7 @@
 
 * ## **Upgrade de Clã**
    * **Rank C:** Dominio Simples: Contra-Ataque
-   * **Rank B:** -
+   * **Rank B:** Restrição Elemental
    * **Rank A:** -
    * **Rank S:** -
 
