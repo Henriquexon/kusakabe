@@ -67,7 +67,9 @@
 
 * ## **Treinos**
   ### **Treino de Level 6 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
-  * 
+  * Criar rank C (42) (Kenjutsu; DPT; Corpo-a-Corpo)
+  * Criar rank C (42) (Kenjutsu, Stun/Enraizar; Médio)
+  * 4º PA (70)
 
  
   ### **Treino de Level 7 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
