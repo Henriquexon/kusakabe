@@ -12,7 +12,7 @@
     **Clã:** Senju (16 Pontos) </br>
     **Habilidade Inata:** - </br>
     **Classe:** Guerreiro </br>
-    **Alinhamento:**  </br>
+    **Alinhamento:** Neutral - Evil </br>
     **Ryõ:** 800 Ryou </br>
     **Elemento:** - </br>
 
