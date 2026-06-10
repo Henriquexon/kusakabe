@@ -44,8 +44,8 @@
     **Ajuda:** Defender com arma corpo-a-corpo </br>
 
 * ## **Especializações (+1 de mod)**
-    #### Prestidigitação (Destreza): +4
-     Sempre que você tentar realizar um ato de prestidigitação ou de trapaça manual, como plantar alguma coisa em outra pessoa ou esconder um objeto em sua roupa, você deve fazer um teste de Prestidigitação. O Mestre também pode pedir um teste de Prestidigitação para determinar se você pode roubar uma bolsa de moedas ou pegar algo do bolso de outra pessoa.
+    #### Furtividade (Destreza): +4
+     Um teste de Furtividade é realizado para tentar esconder-se de inimigos, escapar sem ser notado, ou aproximar-se de alguém sem ser visto ou ouvido.
 
 * ## **Talentos - (4 PC)**
   * #### **SANGUE NOS OLHOS - (4 PC)**
@@ -59,6 +59,7 @@
 
 * ## **Talentos de Perícia**
 
+
 * ## **Upgrade de Clã**
    * **Rank C:** Dominio Simples: Contra-Ataque
    * **Rank B:** Restrição Elemental
@@ -71,10 +72,10 @@
   * Criar rank C (42) (Kenjutsu, Stun/Enraizar; Médio)
   * Criar rank C (42) (Kenjutsu, DANO, Corpo-a-corpo)
   * 4º PA (70)
-
  
   ### **Treino de Level 7 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
-  * 
+  * Ir atrás de sensei (20) (Rei)
+
 
 * # **Jutsus**
     * ## **Ninjutsus**
@@ -167,3 +168,12 @@
   **Custo de Ações:** 2 PA </br>
 
 * # **História**
+Kusakabe nasceu em Creta, nunca conheceu ou soube quem eram seus pais
+Foi criado pelos soldados de alto escalão do rei para ser uma arma viva, treinado desde o momento que aprendeu a andar
+Todas as missões em que o rei ou os soldados reais não poderiam realizar, eles chavam Kusakabe para fazer a parte suja do trabalho
+Kusakabe continuou seguindo a vida como um assassino a mando do rei por não saber que outro rumo poderia tomar na vida, e foi com essa tamanha solidão que ele encontrou esperança com Deus Netuno
+Kusakabe ia todos os dias nas pregações do Padre Pucci e rezava junto dele e dos fieis para o senhor
+Porém, após fracassar em uma das missões, Kusakabe foi preso juntamente de Juan, e foi mandado para o labirinto do minotuba
+Lá, ele conseguiu fugir do labirinto (por conhecidentemente ter encontrado a abertura que os players da outra mesa deixaram), e começou a acreditar mais ainda que Netuno deu a ele uma segunda chance
+O Padre Estige contou a Kusakabe sua história, e como o Padre Pucci aprisionou e torturou Estige por todo esse tempo
+Se vendo na mesma situação que Estige, Kusakabe decide que irá juntamente do Padre unificar o mundo, trazendo a palavra de Netuno
