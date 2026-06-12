@@ -147,11 +147,11 @@
    **Aprendizado:** T </br>
    **Custo de Ações:** 1 PA para ativar </br>
 
-   ### **DPT de Kenjutsu** </br>
-   **Custo:** X de Chakra </br>
+   ### **Corte em três partes** </br>
+   **Custo:** 10 de Chakra </br>
    **Rank:** C </br>
-   **Efeito:** </br>
-   **Dano:** xdx por Turno </br>
+   **Efeito:** O usuário realiza três cortes no peito do adversário, porém os outros dois cortes só serão sentidos nas próximas rodadas. </br>
+   **Dano:** 2d6 por Turno </br>
    **Requerimentos:** - </br>
    **Range:** Corpo-a-Corpo </br>
    **Aprendizado:** T </br>
