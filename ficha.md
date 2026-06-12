@@ -6,7 +6,7 @@
     **Carregamento de Chakra:** +5 de Chakra </br>
     **Deslocamento:** 8 Metros (5 + Destreza) </br>
     **Dano do Soco:** 1d4 (Nível 1) </br>
-    **PA's:** 3º </br>
+    **PA's:** 4º </br>
     **Idade:** 37 anos </br>
     **Nível:** 08 </br>
     **Clã:** Senju (16 Pontos) </br>
