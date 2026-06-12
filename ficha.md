@@ -70,7 +70,7 @@
   ### **Treino de Level 6 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
   * 4º PA (70 PT)
   * Criar Kenjutsu D (18 PT) ("Cortar e Tricotar)
-  * 7x Hora complementas (1 PT)
+  * 7x Hora complementas (1 PT) (+15 Ryõ)
  
   ### **Treino de Level 7 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
   * Ir atrás de sensei (20 PT) (Rei)
