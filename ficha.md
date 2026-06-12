@@ -68,13 +68,15 @@
 
 * ## **Treinos**
   ### **Treino de Level 6 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
-  * 4º PA (70)
+  * 4º PA (70 PT)
+  * Criar Kenjutsu D (18 PT) ("Cortar e Tricotar)
+  * 7x Hora complementas (1 PT)
  
   ### **Treino de Level 7 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
-  * Ir atrás de sensei (20) (Rei)
-  * Criar Kenjutsu C (29) (Kenjutsu; DPT; Corpo-a-Corpo)
-  * Aprimorar Kenjutsu rank C (21) (Diminuir chakra "Extensão de Chakra")
-  * Aprimorar Kenjutsu rank C (21) (Aumentar dano "Extensão de Chakra")
+  * Ir atrás de sensei (20 PT) (Rei)
+  * Criar Kenjutsu C (29 PT) ("Corte em três partes")
+  * Aprimorar Kenjutsu rank C (21 PT) (Diminuir chakra "Extensão de Chakra")
+  * Aprimorar Kenjutsu rank C (21 PT) (Aumentar dano "Extensão de Chakra")
 
 
 * # **Jutsus**
@@ -136,6 +138,16 @@
    **Range:** - </br>
    **Aprendizado:** C </br>
    **Custo de Ações:** - </br>
+
+   ### **Cortar e Tricotar** </br>
+   **Custo:** 5 de Chakra </br>
+   **Rank:** D </br>
+   **Efeito:** O ninja utilizando uma espada realiza varios ataques precisos em seu alvo, não causando nenhum dano porem fazendo com que todas as roupas do alvo caiam ou se desfaçam. Roupas que estiverem com equipamentos ninjas ou armas não são afetados. </br>
+   **Dano:** - </br>
+   **Requerimentos:** - </br>
+   **Range:** Curto </br>
+   **Aprendizado:** C </br>
+   **Custo de Ações:** 2 PA </br>
 
    ### **Extensão de Chakra** </br>
    **Custo:** 4 de Chakra por Turno </br>
