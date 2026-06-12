@@ -74,7 +74,7 @@
   * Ir atrás de sensei (20) (Rei)
   * Criar Kenjutsu C (29) (Kenjutsu; DPT; Corpo-a-Corpo)
   * Aprimorar Kenjutsu rank C (21) (Diminuir chakra "Extensão de Chakra")
-  * Aprimorar Kenjutsu rank C (21) (Diminuir chakra "Extensão de Chakra")
+  * Aprimorar Kenjutsu rank C (21) (Aumentar dano "Extensão de Chakra")
 
 
 * # **Jutsus**
@@ -138,10 +138,10 @@
    **Custo de Ações:** - </br>
 
    ### **Extensão de Chakra** </br>
-   **Custo:** 3 de Chakra por turno </br>
+   **Custo:** 4 de Chakra por Turno </br>
    **Rank:** C (4/6) </br>
    **Efeito:** Estilo de Luta. O usuário concentra chakra na lâmina de sua espada, fazendo com que todos seus danos com esta arma sejam aumentados. O ninja precisa estar em constante contato com a arma para manter a técnica. </br>
-   **Dano:** 1d4 Extra </br>
+   **Dano:** 1d6 Extra </br>
    **Requerimentos:** - </br>
    **Range:** - </br>
    **Aprendizado:** T </br>
