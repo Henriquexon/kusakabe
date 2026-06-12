@@ -147,6 +147,16 @@
    **Aprendizado:** T </br>
    **Custo de Ações:** 1 PA para ativar </br>
 
+   ### **DPT de Kenjutsu** </br>
+   **Custo:** X de Chakra </br>
+   **Rank:** C </br>
+   **Efeito:** </br>
+   **Dano:** xdx por Turno </br>
+   **Requerimentos:** - </br>
+   **Range:** Corpo-a-Corpo </br>
+   **Aprendizado:** T </br>
+   **Custo de Ações:** 2 PA </br>
+
    ### **Shunsokuzan (Decapitação da Respiração Instantânea)** </br>
   **Custo:** 13 de Chakra </br>
   **Rank:** C </br>
