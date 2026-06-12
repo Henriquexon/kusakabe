@@ -68,13 +68,13 @@
 
 * ## **Treinos**
   ### **Treino de Level 6 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
-  * Criar rank C (42) (Kenjutsu; DPT; Corpo-a-Corpo)
-  * Criar rank C (42) (Kenjutsu, Stun/Enraizar; Médio)
-  * Criar rank C (42) (Kenjutsu, DANO, Corpo-a-corpo)
   * 4º PA (70)
  
   ### **Treino de Level 7 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
   * Ir atrás de sensei (20) (Rei)
+  * Criar Kenjutsu C (29) (Kenjutsu; DPT; Corpo-a-Corpo)
+  * Aprimorar Kenjutsu rank C (21) (Diminuir chakra "Extensão de Chakra")
+  * Aprimorar Kenjutsu rank C (21) (Diminuir chakra "Extensão de Chakra")
 
 
 * # **Jutsus**
@@ -137,15 +137,15 @@
    **Aprendizado:** C </br>
    **Custo de Ações:** - </br>
 
-   ### **Dominio Simples: Contra-Ataque** </br>
-   **Custo:** 10 de Chakra </br>
-   **Rank:** C </br>
-   **Efeito:** O usuário se mantém em posição firme, concentrando chakra em todo o seu corpo aumentado seus sentidos e habilidades. O usuário prepara defesa e sua DN de contra-ataque se torna 8+Mod. </br>
-   **Dano:** - </br>
+   ### **Extensão de Chakra** </br>
+   **Custo:** 3 de Chakra por turno </br>
+   **Rank:** C (4/6) </br>
+   **Efeito:** Estilo de Luta. O usuário concentra chakra na lâmina de sua espada, fazendo com que todos seus danos com esta arma sejam aumentados. O ninja precisa estar em constante contato com a arma para manter a técnica. </br>
+   **Dano:** 1d4 Extra </br>
    **Requerimentos:** - </br>
-   **Range:** Corpo-a-Corpo </br>
+   **Range:** - </br>
    **Aprendizado:** T </br>
-   **Custo de Ações:** Turno Inteiro </br>
+   **Custo de Ações:** 1 PA para ativar </br>
 
    ### **Shunsokuzan (Decapitação da Respiração Instantânea)** </br>
   **Custo:** 13 de Chakra </br>
@@ -168,12 +168,12 @@
   **Custo de Ações:** 2 PA </br>
 
 * # **História**
-Kusakabe nasceu em Creta, nunca conheceu ou soube quem eram seus pais
-Foi criado pelos soldados de alto escalão do rei para ser uma arma viva, treinado desde o momento que aprendeu a andar
-Todas as missões em que o rei ou os soldados reais não poderiam realizar, eles chavam Kusakabe para fazer a parte suja do trabalho
-Kusakabe continuou seguindo a vida como um assassino a mando do rei por não saber que outro rumo poderia tomar na vida, e foi com essa tamanha solidão que ele encontrou esperança com Deus Netuno
-Kusakabe ia todos os dias nas pregações do Padre Pucci e rezava junto dele e dos fieis para o senhor
-Porém, após fracassar em uma das missões, Kusakabe foi preso juntamente de Juan, e foi mandado para o labirinto do minotuba
-Lá, ele conseguiu fugir do labirinto (por conhecidentemente ter encontrado a abertura que os players da outra mesa deixaram), e começou a acreditar mais ainda que Netuno deu a ele uma segunda chance
-O Padre Estige contou a Kusakabe sua história, e como o Padre Pucci aprisionou e torturou Estige por todo esse tempo
-Se vendo na mesma situação que Estige, Kusakabe decide que irá juntamente do Padre unificar o mundo, trazendo a palavra de Netuno
+Kusakabe nasceu em Creta, nunca conheceu ou soube quem eram seus pais </br>
+Foi criado pelos soldados de alto escalão do rei para ser uma arma viva, treinado desde o momento que aprendeu a andar</br>
+Todas as missões em que o rei ou os soldados reais não poderiam realizar, eles chavam Kusakabe para fazer a parte suja do trabalho</br>
+Kusakabe continuou seguindo a vida como um assassino a mando do rei por não saber que outro rumo poderia tomar na vida, e foi com essa tamanha solidão que ele encontrou esperança com Deus Netuno</br>
+Kusakabe ia todos os dias nas pregações do Padre Pucci e rezava junto dele e dos fieis para o senhor</br>
+Porém, após fracassar em uma das missões, Kusakabe foi preso juntamente de Juan, e foi mandado para o labirinto do minotuba</br>
+Lá, ele conseguiu fugir do labirinto (por conhecidentemente ter encontrado a abertura que os players da outra mesa deixaram), e começou a acreditar mais ainda que Netuno deu a ele uma segunda chance</br>
+O Padre Estige contou a Kusakabe sua história, e como o Padre Pucci aprisionou e torturou Estige por todo esse tempo</br>
+Se vendo na mesma situação que Estige, Kusakabe decide que irá juntamente do Padre unificar o mundo, trazendo a palavra de Netuno</br>
