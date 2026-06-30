@@ -56,7 +56,7 @@
 
 * ## **Perícia**
   #### **Perícia no Uso de Armas (1x)** </br>
-  **Garante:** Aumenta 250g por PA de arremesso ou 500g no seu limite de carregamento.  </br>
+  **Garante:** Aumenta 500g no seu limite de carregamento.  </br>
   **Se obtida uma vez:** As ações de embainhar e desembainhar armas corpo-a-corpo agora custam 0 PA. </br>
 
 * ## **Talentos de Perícia**
@@ -75,7 +75,7 @@
   * Aprender rank D (3 PT) ("Soushuriken no Jutsu (Técnica de Manipulação de Shuriken)")
  
   ### **Treino de Level 7 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
-  * Ir atrás de sensei (20 PT) (Rei)
+  * Ir atrás de sensei (20 PT) (Rei/Darui)
   * Criar Kenjutsu C (29 PT) ("Corte em três partes")
   * Aprimorar Kenjutsu rank C (21 PT) (Diminuir chakra "Extensão de Chakra")
   * Aprimorar Kenjutsu rank C (21 PT) (Aumentar dano "Extensão de Chakra")
@@ -187,14 +187,14 @@
    ### **Extensão de Chakra** </br>
    **Custo:** 4 de Chakra por Turno </br>
    **Rank:** C (4/6) </br>
-   **Efeito:** Estilo de Luta. O usuário concentra chakra na lâmina de sua espada, fazendo com que todos seus danos com esta arma sejam aumentados. O ninja precisa estar em constante contato com a arma para manter a técnica. </br>
+   **Efeito:** Estilo de Luta. O usuário concentra chakra na lâmina de sua espada, fazendo com que todos seus danos com esta arma sejam aumentados. O ninja precisa estar em constante contato com a arma para manter a técnica. Caso o ninja utilize uma técnica em multiplos alvos, ele pode dividir os dados de dano extra entre os alvos, o dano não será repetido em todos os alvos. </br>
    **Dano:** 1d6 Extra </br>
    **Requerimentos:** - </br>
    **Range:** - </br>
    **Aprendizado:** T </br>
    **Custo de Ações:** 1 PA para ativar </br>
 
-   ### **Corte em três partes** </br>
+   ### **Corte em Três Partes** </br>
    **Custo:** 10 de Chakra </br>
    **Rank:** C </br>
    **Efeito:** O usuário realiza três cortes no peito do adversário, porém os outros dois cortes só serão sentidos nas próximas rodadas. </br>
