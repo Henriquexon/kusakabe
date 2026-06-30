@@ -13,7 +13,7 @@
     **Habilidade Inata:** - </br>
     **Classe:** Guerreiro </br>
     **Alinhamento:** Neutral - Evil </br>
-    **Ryõ:** 400 Ryou </br>
+    **Ryõ:** 800 Ryou </br>
     **Elemento:** - </br>
 
 * ## **Vida e Chakra**
@@ -51,7 +51,7 @@
   * #### **SANGUE NOS OLHOS - (4 PC)**
 
 * ## **Itens (3 Kg/3 Kg)**
-
+   * 
 
 * ## **Perícia**
   #### **Perícia no Uso de Armas (1x)** </br>
@@ -71,7 +71,7 @@
   ### **Treino de Level 6 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
   * 4º PA (70 PT)
   * Fazer missão rank C (22 PT) (+400 Ryõ)
-  * Aprender jutsu rank D (3 PT) ("Bunshin no Jutsu (Técnica de Clonagem)")
+  * Aprender rank D (3 PT) ("Soushuriken no Jutsu (Técnica de Manipulação de Shuriken)")
  
   ### **Treino de Level 7 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
   * Ir atrás de sensei (20 PT) (Rei)
@@ -84,16 +84,6 @@
 
 * # **Jutsus**
     * ## **Ninjutsus**
-   ### **Bunshin no Jutsu (Técnica de Clonagem)** </br>
-   **Custo:** 1 de Chakra por clone </br>
-   **Rank:** D </br>
-   **Efeito:** Concentração. O ninja cria um clone ilusório que desaparece quando entra em contato com qualquer coisa. O limite de bunshins criados é 15. </br>
-   **Dano:** - </br>
-   **Requerimentos:** - </br>
-   **Range:** Médio </br>
-   **Aprendizado:** C </br>
-   **Custo de Ações:** 2 PA </br>
-
    ### **Henge no Jutsu (Técnica de Transformação)** </br>
    **Custo:** 2 de Chakra por Turno </br>
    **Rank:** D </br>
@@ -141,8 +131,18 @@
     **Range:** Corpo-a-Corpo </br>
     **Custo de Ações:** 2 PA </br>
 
+    ### **Funyu/Kaifu no Jutsu (Técnica de Anexamento/Deslacramento)** </br>
+    **Custo:** 1 de Chakra para cada 250g </br>
+    **Rank:** D </br>
+    **Efeito:** Sela ou retira um objeto em um pergaminho. </br>
+    **Dano:** - </br>
+    **Requerimentos:** - </br>
+    **Range:** - </br>
+    **Aprendizado:** C </br>
+    **Custo de Ações:** 2 PA </br>
+
     * ## **Taijutsu**
-    ### **Dainamikku Entori (Entrada Dinâmica) 
+    ### **Dainamikku Entori (Entrada Dinâmica)** </br>
     **Custo:** 5 de Chakra
     **Rank:** D
     **Efeito:** O ninja dá um chute aéreo no adversário. 
@@ -152,7 +152,7 @@
     **Aprendizado:** C
     **Custo de Ações:** 2 PA
 
-    ### **Yamakuzure (Avalanche)
+    ### **Yamakuzure (Avalanche)** </br>
     **Custo:** 10 de Chakra
     **Rank:** C
     **Efeito:** Ao bater com toda a sua força no chão, o usuário deforma a área próxima a ele, rachando o solo e o tornando em terreno difícil para seus adversários. Todos que estiverem nessa área também devem realizar um teste e se falharem serão derrubados.
@@ -160,7 +160,7 @@
     **Requerimentos:** -
     **Range:** Curto; Raio Pequeno
     **Aprendizado:** C
-    **Custo de Ações:**    2 PA
+    **Custo de Ações:** 2 PA
 
     * ## **Kenjutsu**
    ### **Kage Shuriken no Jutsu (Técnica da Shuriken das Sombra)** </br>
