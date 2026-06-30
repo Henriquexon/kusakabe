@@ -13,7 +13,7 @@
     **Habilidade Inata:** - </br>
     **Classe:** Guerreiro </br>
     **Alinhamento:** Neutral - Evil </br>
-    **Ryõ:** 800 Ryou </br>
+    **Ryõ:** 400 Ryou </br>
     **Elemento:** - </br>
 
 * ## **Vida e Chakra**
@@ -52,6 +52,7 @@
 
 * ## **Itens (3 Kg/3 Kg)**
 
+
 * ## **Perícia**
   #### **Perícia no Uso de Armas (1x)** </br>
   **Garante:** Aumenta 250g por PA de arremesso ou 500g no seu limite de carregamento.  </br>
@@ -61,7 +62,7 @@
 
 
 * ## **Upgrade de Clã**
-   * **Rank C:** Dominio Simples: Contra-Ataque
+   * **Rank C:** Extensão de Chakra
    * **Rank B:** Restrição Elemental
    * **Rank A:** -
    * **Rank S:** -
@@ -69,18 +70,30 @@
 * ## **Treinos**
   ### **Treino de Level 6 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
   * 4º PA (70 PT)
-  * Criar Kenjutsu D (18 PT) ("Cortar e Tricotar)
-  * 7x Hora complementas (1 PT) (+15 Ryõ)
+  * Fazer missão rank C (22 PT) (+400 Ryõ)
+  * Aprender jutsu rank D (3 PT) ("Bunshin no Jutsu (Técnica de Clonagem)")
  
   ### **Treino de Level 7 (Treino Médio; 3 de Inteligência; Rank C) (95 Pontos)**
   * Ir atrás de sensei (20 PT) (Rei)
   * Criar Kenjutsu C (29 PT) ("Corte em três partes")
   * Aprimorar Kenjutsu rank C (21 PT) (Diminuir chakra "Extensão de Chakra")
   * Aprimorar Kenjutsu rank C (21 PT) (Aumentar dano "Extensão de Chakra")
+  * Aprender Ninjutsu Rank D Comprável (2 PT) ("Kinobiri")
+  * Aprender Ninjutsu Rank D Comprável (2 PT) ("Mizu no Kinobiri")
 
 
 * # **Jutsus**
     * ## **Ninjutsus**
+   ### **Bunshin no Jutsu (Técnica de Clonagem)** </br>
+   **Custo:** 1 de Chakra por clone </br>
+   **Rank:** D </br>
+   **Efeito:** Concentração. O ninja cria um clone ilusório que desaparece quando entra em contato com qualquer coisa. O limite de bunshins criados é 15. </br>
+   **Dano:** - </br>
+   **Requerimentos:** - </br>
+   **Range:** Médio </br>
+   **Aprendizado:** C </br>
+   **Custo de Ações:** 2 PA </br>
+
    ### **Henge no Jutsu (Técnica de Transformação)** </br>
    **Custo:** 2 de Chakra por Turno </br>
    **Rank:** D </br>
@@ -128,6 +141,27 @@
     **Range:** Corpo-a-Corpo </br>
     **Custo de Ações:** 2 PA </br>
 
+    * ## **Taijutsu**
+    ### **Dainamikku Entori (Entrada Dinâmica) 
+    **Custo:** 5 de Chakra
+    **Rank:** D
+    **Efeito:** O ninja dá um chute aéreo no adversário. 
+    **Dano:** 1d4
+    **Requerimentos:** -
+    **Range:** Médio
+    **Aprendizado:** C
+    **Custo de Ações:** 2 PA
+
+    ### **Yamakuzure (Avalanche)
+    **Custo:** 10 de Chakra
+    **Rank:** C
+    **Efeito:** Ao bater com toda a sua força no chão, o usuário deforma a área próxima a ele, rachando o solo e o tornando em terreno difícil para seus adversários. Todos que estiverem nessa área também devem realizar um teste e se falharem serão derrubados.
+    **Dano:** -
+    **Requerimentos:** -
+    **Range:** Curto; Raio Pequeno
+    **Aprendizado:** C
+    **Custo de Ações:**    2 PA
+
     * ## **Kenjutsu**
    ### **Kage Shuriken no Jutsu (Técnica da Shuriken das Sombra)** </br>
    **Custo:** 3 de Chakra </br>
@@ -139,15 +173,15 @@
    **Aprendizado:** C </br>
    **Custo de Ações:** - </br>
 
-   ### **Cortar e Tricotar** </br>
-   **Custo:** 5 de Chakra </br>
+   ### **Soushuriken no Jutsu (Técnica de Manipulação de Shuriken)** </br>
+   **Custo:** 5 de Chakra por arma manipulada </br>
    **Rank:** D </br>
-   **Efeito:** O ninja utilizando uma espada realiza varios ataques precisos em seu alvo, não causando nenhum dano porem fazendo com que todas as roupas do alvo caiam ou se desfaçam. Roupas que estiverem com equipamentos ninjas ou armas não são afetados. </br>
+   **Efeito:** O usuário manipula uma shuriken com um fio de aço, dando vantagem na sua rolagem de ataque. A metragem de fio de aço deve ser proporcional à distância que a shuriken percorre. O peso do fio de aço entrará na regra de lançamento. </br>
    **Dano:** - </br>
    **Requerimentos:** - </br>
-   **Range:** Curto </br>
+   **Range:** - </br>
    **Aprendizado:** C </br>
-   **Custo de Ações:** 2 PA </br>
+   **Custo de Ações:** - </br>
 
    ### **Extensão de Chakra** </br>
    **Custo:** 4 de Chakra por Turno </br>
