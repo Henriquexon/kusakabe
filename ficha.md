@@ -17,7 +17,7 @@
     **Elemento:** - </br>
 
 * ## **Vida e Chakra**
-    | Kusakabe | HP ((8 + Cons/2 + 1) x level) | CP 5 + ((8 + 1) x level) |                        
+    | Kusakabe | HP ((8 + Cons/2 + 1) x level) | CP ((8 + 1) x level) |                        
     | :--: | :--:  | :--: |
     | **Atual**| 72 | 72 |
     |**Máximo**| 72  | 72 |
