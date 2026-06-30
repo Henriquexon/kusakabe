@@ -13,7 +13,7 @@
     **Habilidade Inata:** - </br>
     **Classe:** Guerreiro </br>
     **Alinhamento:** Neutral - Evil </br>
-    **Ryõ:** 800 Ryou </br>
+    **Ryõ:** 220 Ryou </br>
     **Elemento:** - </br>
 
 * ## **Vida e Chakra**
@@ -50,8 +50,9 @@
 * ## **Talentos - (4 PC)**
   * #### **SANGUE NOS OLHOS - (4 PC)**
 
-* ## **Itens (3 Kg/3 Kg)**
-   * 
+* ## **Itens (0 Kg/3 Kg)**
+   * 2x Espada: 1d8; Corpo-a-Corpo; 500g; 250 Ryõ
+   * 8x Shuriken: 1d4; Longo; 250g; 10 Ryõ
 
 * ## **Perícia**
   #### **Perícia no Uso de Armas (1x)** </br>
@@ -82,8 +83,8 @@
   * Aprender Ninjutsu Rank D Comprável (2 PT) ("Mizu no Kinobiri")
 
 
-* # **Jutsus**
-    * ## **Ninjutsus**
+* # **Jutsus** </br>
+    * ## **Ninjutsus** </br>
    ### **Henge no Jutsu (Técnica de Transformação)** </br>
    **Custo:** 2 de Chakra por Turno </br>
    **Rank:** D </br>
@@ -162,7 +163,7 @@
     **Aprendizado:** C
     **Custo de Ações:** 2 PA
 
-    * ## **Kenjutsu**
+    * ## **Kenjutsu** </br>
    ### **Kage Shuriken no Jutsu (Técnica da Shuriken das Sombra)** </br>
    **Custo:** 3 de Chakra </br>
    **Rank:** D </br>
@@ -223,7 +224,7 @@
   **Aprendizado:** C </br>
   **Custo de Ações:** 2 PA </br>
 
-* # **História**
+* # **História** </br>
 Kusakabe nasceu em Creta, nunca conheceu ou soube quem eram seus pais </br>
 Foi criado pelos soldados de alto escalão do rei para ser uma arma viva, treinado desde o momento que aprendeu a andar</br>
 Todas as missões em que o rei ou os soldados reais não poderiam realizar, eles chavam Kusakabe para fazer a parte suja do trabalho</br>
