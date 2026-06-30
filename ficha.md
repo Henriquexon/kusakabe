@@ -144,24 +144,24 @@
 
     * ## **Taijutsu**
     ### **Dainamikku Entori (Entrada Dinâmica)** </br>
-    **Custo:** 5 de Chakra
-    **Rank:** D
-    **Efeito:** O ninja dá um chute aéreo no adversário. 
-    **Dano:** 1d4
-    **Requerimentos:** -
-    **Range:** Médio
-    **Aprendizado:** C
-    **Custo de Ações:** 2 PA
+    **Custo:** 5 de Chakra </br>
+    **Rank:** D </br>
+    **Efeito:** O ninja dá um chute aéreo no adversário. </br>
+    **Dano:** 1d4 </br>
+    **Requerimentos:** - </br>
+    **Range:** Médio </br>
+    **Aprendizado:** C </br>
+    **Custo de Ações:** 2 PA </br>
 
     ### **Yamakuzure (Avalanche)** </br>
-    **Custo:** 10 de Chakra
-    **Rank:** C
-    **Efeito:** Ao bater com toda a sua força no chão, o usuário deforma a área próxima a ele, rachando o solo e o tornando em terreno difícil para seus adversários. Todos que estiverem nessa área também devem realizar um teste e se falharem serão derrubados.
-    **Dano:** -
-    **Requerimentos:** -
-    **Range:** Curto; Raio Pequeno
-    **Aprendizado:** C
-    **Custo de Ações:** 2 PA
+    **Custo:** 10 de Chakra </br>
+    **Rank:** C </br>
+    **Efeito:** Ao bater com toda a sua força no chão, o usuário deforma a área próxima a ele, rachando o solo e o tornando em terreno difícil para seus adversários. Todos que estiverem nessa área também devem realizar um teste e se falharem serão derrubados. </br>
+    **Dano:** - </br>
+    **Requerimentos:** - </br>
+    **Range:** Curto; Raio Pequeno </br>
+    **Aprendizado:** C </br>
+    **Custo de Ações:** 2 PA </br>
 
     * ## **Kenjutsu** </br>
    ### **Kage Shuriken no Jutsu (Técnica da Shuriken das Sombra)** </br>
